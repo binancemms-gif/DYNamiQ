@@ -1,0 +1,6 @@
+{
+  "name": "DYNamiQ — Stories in Motion",
+  "description": "Global startup media and business culture publication. Built by founders. Watched by everyone.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
